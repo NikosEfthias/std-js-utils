@@ -1,0 +1,29 @@
+{
+  "name": "std_js_utils",
+  "version": "1.0.0",
+  "description": "Some utilities to make life easier working with js",
+  "main": "index.js",
+  "public":true,
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NikosEfthias/std-js-utils.git"
+  },
+  "keywords": [
+    "js",
+    "utils",
+    "std",
+    "stdjs",
+    "pipe",
+    "jquery",
+    "querySelector"
+  ],
+  "author": "Nikos Efthias <nikos@mugsoft.io>",
+  "license": "GPL-2.0-only",
+  "bugs": {
+    "url": "https://github.com/NikosEfthias/std-js-utils/issues"
+  },
+  "homepage": "https://github.com/NikosEfthias/std-js-utils#readme"
+}
