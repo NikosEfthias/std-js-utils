@@ -1,6 +1,6 @@
 {
   "name": "std_js_utils",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Some utilities to make life easier working with js",
   "main": "index.js",
   "public":true,
